@@ -5,7 +5,7 @@ This is the script we use to start our Ubuntu systems.
 
     After installing Ubuntu Minimal
     
-    wget 
+    wget https://raw.githubusercontent.com/philliplakis/Nvidia-Ubuntu-noVNC/master/start.sh
     
     sudo bash start.sh
 
