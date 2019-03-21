@@ -9,13 +9,14 @@ This is the script we use to start our Ubuntu systems.
     
     sudo bash start.sh
 
-This is designed and tested from Minimal Ubuntu to GPU Accelerated VNC. 
-Main Installs:
-Lubuntu Desktop
-Nvidia Drivers
-noVNC
-Websockify
-TigerVNC
+This is designed and tested from Minimal Ubuntu to GPU Accelerated VNC.
+
+   ### Main Installs:
+    Lubuntu Desktop
+    Nvidia Drivers
+    noVNC
+    Websockify
+    TigerVNC
 
 Plus more dependancies, See script for details.
 
